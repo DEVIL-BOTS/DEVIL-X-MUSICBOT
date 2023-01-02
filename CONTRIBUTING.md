@@ -1,4 +1,4 @@
-# TGVCBot Contribution Guides and Rules
+# DEVIL-X-MUSIC Contribution Guides and Rules
 
 - For Major changes or new features please create an Issue first.
 - Don't use npm. Use yarn.
